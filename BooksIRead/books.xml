@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<row>
+		<title>Magik</title>
+		<author>Magdalena Parys</author>
+		<publisher>Świat Książki</publisher>
+		<year>2014</year>
+		<pages>618</pages>
+	</row>
+	<row>
+		<title>Królestwo</title>
+		<author>Jo Nesbo</author>
+		<publisher>Wydawnictwo Dolnośląskie</publisher>
+		<year>2020</year>
+		<pages>480</pages>
+	</row>
+	<row>
+		<title>Król</title>
+		<author>Szczepan Twardoch</author>
+		<publisher>Wydawnictwo Literackie</publisher>
+		<year>2016</year>
+		<pages>429</pages>
+	</row>	
+	<row>
+		<title>Roztopy</title>
+		<author>Jędrzej Pasierski</author>
+		<publisher>Czarne</publisher>
+		<year>2019</year>
+		<pages>336</pages>
+	</row>
+	<row>
+		<title>Odwrócone światło</title>
+		<author>Tymoteusz Karpowicz</author>
+		<publisher>Zakład Narodowy im. Ossolińskich</publisher>
+		<year>1972</year>
+		<pages>411</pages>
+	</row>
+	<row>
+		<title>Wampir</title>
+		<author>Wojciech Chmielarz</author>
+		<publisher>Czarne</publisher>
+		<year>2015</year>
+		<pages>312</pages>
+	</row>
+	<row>
+		<title>Przejęcie</title>
+		<author>Wojciech Chmielarz</author>
+		<publisher>Czarne</publisher>
+		<year>2017</year>
+		<pages>390</pages>
+	</row>
+	<row>
+		<title>Morfina</title>
+		<author>Szczepan Twardoch</author>
+		<publisher>Wydawnictwo Literackie</publisher>
+		<year>2012</year>
+		<pages>579</pages>
+	</row>
+	<row>
+		<title>Czarne oceany</title>
+		<author>Jacek Dukaj</author>
+		<publisher>Wydawnictwo Literackie</publisher>
+		<year>2008</year>
+		<pages>486</pages>
+	</row>
+	<row>
+		<title>Nocne zwierzęta</title>
+		<author>Patrycja Pustkowiak</author>
+		<publisher>WAB</publisher>
+		<year>2013</year>
+		<pages>223</pages>
+	</row>
+	<row>
+		<title>Ajol</title>
+		<author>Stanisław Czycz</author>
+		<publisher>Wydawnictwo Literackie</publisher>
+		<year>1967</year>
+		<pages>225</pages>
+	</row>
+	<row>
+		<title>Trociny</title>
+		<author>Krzysztof Varga</author>
+		<publisher>Czarne</publisher>
+		<year>2012</year>
+		<pages>367</pages>
+	</row>
+	<row>
+		<title>Zima</title>
+		<author>Andrzej Stasiuk</author>
+		<publisher>Czarne</publisher>
+		<year>2017</year>
+		<pages>52</pages>
+	</row>
+	<row>
+		<title>Portrecista psów</title>
+		<author>Wojciech Chamier-Gliszczyński</author>
+		<publisher>Czarne</publisher>
+		<year>2020</year>
+		<pages>264</pages>
+	</row>
+</root>
